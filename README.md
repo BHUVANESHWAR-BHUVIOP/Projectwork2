@@ -1,7 +1,7 @@
-# Document Intelligence with Azure OpenAI
+# AUTOMATING HEALTHCARE DATA EXTRACTION AND INSIGHTS WITH  AZURE AI AND OPENAI
 
 ## Project Overview
-This project was developed for a hackathon, focusing on enhancing healthcare data management. The solution aims to automate the extraction and analysis of information from medical forms and prescriptions using Azure AI and OpenAI technologies. By converting paper forms into structured digital formats and visualizing data insights, healthcare providers can streamline patient record management, improve decision-making, and offer better patient care.
+This project focusing on enhancing healthcare data management. The solution aims to automate the extraction and analysis of information from medical forms and prescriptions using Azure AI and OpenAI technologies. By converting paper forms into structured digital formats and visualizing data insights, healthcare providers can streamline patient record management, improve decision-making, and offer better patient care.
 
 ## Problem Statement
 Traditional data entry in healthcare is time-consuming, error-prone, and often results in fragmented data stored across multiple formats. This project addresses key issues such as:
